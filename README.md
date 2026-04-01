@@ -1,5 +1,9 @@
 # Claims Denial Analysis Dashboard
 
+## Dashboard Preview
+![dashboard](dashboard.png)
+
+
 ## Business Problem
 A hospital is losing revenue due to high insurance claim denials.
 This dashboard helps the RCM team find the root cause.
@@ -13,8 +17,6 @@ This dashboard helps the RCM team find the root cause.
 ## Tools
 Python · Excel · Power BI
 
-## Dashboard Preview
-![dashboard](dashboard.png)
 
 ## Files
 - claims_data.xlsx — dataset
