@@ -11,7 +11,7 @@ This dashboard helps the RCM team find the root cause.
 - 69% of appealed claims were recovered
 
 ## Tools
-Excel · Power BI
+Python · Excel · Power BI
 
 ## Dashboard Preview
 ![dashboard](dashboard.png)
